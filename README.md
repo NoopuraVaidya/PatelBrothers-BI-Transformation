@@ -12,6 +12,9 @@ This project demonstrates how we transformed raw sales data into actionable insi
 ### Overview & Key Metrics
 ![Key Sales Metrics](KeySalesMetrics.png)
 
+### Customer Demographics
+![CustomerDemographics](CustomerDemographics.png)
+
 ### Forecasting
 ![Forecasting](Forecasting.png)
 
