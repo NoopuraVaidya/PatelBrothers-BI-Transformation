@@ -26,8 +26,25 @@ This project demonstrates how we transformed raw sales data into actionable insi
 
 ---
 
-## 🧠 Machine Learning
-We used machine learning models to forecast future sales and optimize store operations.  
+## Machine Learning Models
+
+As part of this project, we implemented machine learning models in Python to support decision-making:
+
+1. **Sales Forecasting (Regression)**  
+   - Predicts future sales trends using historical data.  
+   - Model: Linear Regression  
+
+2. **Customer Segmentation (Clustering)**  
+   - Groups customers into segments based on demographics and spending patterns.  
+   - Model: KMeans Clustering  
+
+3. **Customer Attrition (Classification)**  
+   - Predicts which customers are likely to stop shopping.  
+   - Model: Random Forest Classifier  
+
+📂 You can find the full implementation here:  
+👉 [`ml_models.py`](./ml_models.py)
+
 Details of model selection, evaluation, and implementation are included in the [Project Report](PateL_Brothers_Report.docx).
 
 ---
